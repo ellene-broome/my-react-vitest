@@ -30,4 +30,4 @@ npm test
 ## Repository
 
 This project lives on GitHub:  
-[my-react-vitest-app](https://github.com/ellene.broome/my-react-vitest)
+[https://github.com/ellene.broome/my-react-vitest](https://github.com/ellene-broome/my-react-vitest.git)
