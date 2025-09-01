@@ -1,3 +1,5 @@
+// CounterButton.test.jsx
+
 import { render, screen, fireEvent } from "@testing-library/react";
 import CounterButton from "./CounterButton";
 

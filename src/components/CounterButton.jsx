@@ -1,3 +1,5 @@
+// CounterButton.jsx
+
 import { useState } from "react";
 
 export default function CounterButton() {
